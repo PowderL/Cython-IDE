@@ -1,2 +1,2 @@
 # Cython-IDE
-Light IDE for language Cython
+Light IDE programed by Python for language Cython
